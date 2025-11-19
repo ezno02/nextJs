@@ -8,7 +8,6 @@ export default function Home() {
         <h2>Cardápio Virtual</h2>
         <p>
           Seja bem vindo a nosso cardápio virtual!
-          Clique em Começar para prosseguir e visualizar nossa variedade de pratos!
         </p>
         <Link href="/cardapio">Começar</Link>
       </div>
